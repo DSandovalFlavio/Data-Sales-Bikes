@@ -1,0 +1,17 @@
+USE db_sales_bikes;
+INSERT INTO sub_categories (id_sub_category, sub_category, product_category) VALUES 
+ (1, 'Bike Stands', 'Accessories')
+,(2, 'Fenders', 'Accessories')
+,(3, 'Tires and Tubes', 'Accessories')
+,(4, 'Hydration Packs', 'Accessories')
+,(5, 'Bottles and Cages', 'Accessories')
+,(6, 'Helmets', 'Accessories')
+,(7, 'Mountain Bikes', 'Bikes')
+,(8, 'Road Bikes', 'Bikes')
+,(9, 'Touring Bikes', 'Bikes')
+,(10, 'Caps', 'Clothing')
+,(11, 'Vests', 'Clothing')
+,(12, 'Gloves', 'Clothing')
+,(13, 'Jerseys', 'Clothing')
+,(14, 'Socks', 'Clothing')
+,(15, 'Shorts', 'Clothing')
